@@ -65,6 +65,30 @@ DMG öffnen und „GLX Note“ in den Ordner Programme ziehen. Einstellungen und
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Editor mit Syntax-Farben, Reitern und Minikarte
+
+<p align="center"><img src="screenshots/01-editor.jpg" alt="Editor mit Syntax-Farben, Reitern und Minikarte" width="850"></p>
+
+### 2️⃣ Farbige Lesezeichen im hellen Design
+
+<p align="center"><img src="screenshots/02-bookmarks-light.jpg" alt="Farbige Lesezeichen im hellen Design" width="850"></p>
+
+### 3️⃣ Sprache für die Syntax-Farben wählen
+
+<p align="center"><img src="screenshots/03-languages.jpg" alt="Sprache für die Syntax-Farben wählen" width="850"></p>
+
+### 4️⃣ 12 Designs in den Einstellungen
+
+<p align="center"><img src="screenshots/04-designs.jpg" alt="12 Designs in den Einstellungen" width="850"></p>
+
+### 5️⃣ Eingebaute Hilfe mit Suche
+
+<p align="center"><img src="screenshots/05-help.jpg" alt="Eingebaute Hilfe mit Suche" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Syntax-Farben:** Farben für über 80 Sprachen.

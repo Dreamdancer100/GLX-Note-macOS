@@ -65,6 +65,30 @@ Try it free for 14 days with all features. After that you can still open and rea
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Editor with syntax colours, tabs and minimap
+
+<p align="center"><img src="screenshots/01-editor.jpg" alt="Editor with syntax colours, tabs and minimap" width="850"></p>
+
+### 2️⃣ Coloured bookmarks in the light design
+
+<p align="center"><img src="screenshots/02-bookmarks-light.jpg" alt="Coloured bookmarks in the light design" width="850"></p>
+
+### 3️⃣ Choose the language for syntax colours
+
+<p align="center"><img src="screenshots/03-languages.jpg" alt="Choose the language for syntax colours" width="850"></p>
+
+### 4️⃣ 12 designs in the settings
+
+<p align="center"><img src="screenshots/04-designs.jpg" alt="12 designs in the settings" width="850"></p>
+
+### 5️⃣ Built-in help with search
+
+<p align="center"><img src="screenshots/05-help.jpg" alt="Built-in help with search" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Syntax highlighting:** Colors for more than 80 languages.
